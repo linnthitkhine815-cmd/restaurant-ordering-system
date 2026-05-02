@@ -1,0 +1,12 @@
+{
+  "name": "restaurant-ordering-system",
+  "version": "1.0.0",
+  "description": "Vanilla JS restaurant ordering system with Express backend and admin panel.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
